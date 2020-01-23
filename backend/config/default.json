@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://ans:anis123456789@cluster0-4akrb.mongodb.net/newdb_contact?retryWrites=true&w=majority",
+  "secretKey": "myDarkestSecret"
+}
